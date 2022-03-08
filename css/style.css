@@ -64,6 +64,10 @@ ul{
     
 }
 
+.page img{
+    width: 400px;
+}
+
 .testo-img{
     text-align: center;
 }
